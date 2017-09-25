@@ -1,0 +1,45 @@
+.logo img{
+  margin: 10px;
+  width: 80px;
+}
+.nav-bar{
+  margin-top: 20px;
+}
+.caption{
+  background-color: #C7C7C7;
+
+}
+.about{
+  margin: 20px;
+}
+.about-text{
+  background-color: #F8F8F8;
+  text-align: center;
+}
+.about-text h1{
+  padding: 40px;
+}
+.about-text p{
+  margin: 40px;
+}
+.images img{
+  max-width: 100%;
+}
+.design-text{
+  text-align: center;
+}
+.design-text p{
+  margin: 30px;
+  font-size: 20px;
+}
+.jumbotron{
+  background-image: url(../img/11.jpg);
+}
+.jumbotron-text p{
+  font-size: 20px;
+  color: #FFFF;
+}
+.jumbotron-text{
+  padding: 40px;
+  text-align: center;
+}
